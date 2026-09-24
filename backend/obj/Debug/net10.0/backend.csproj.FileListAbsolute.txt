@@ -1,0 +1,15 @@
+C:\Users\Glujkin\Documents\lab1_ISRPO_Shishkin\backend\bin\Debug\net10.0\backend.exe
+C:\Users\Glujkin\Documents\lab1_ISRPO_Shishkin\backend\bin\Debug\net10.0\backend.deps.json
+C:\Users\Glujkin\Documents\lab1_ISRPO_Shishkin\backend\bin\Debug\net10.0\backend.runtimeconfig.json
+C:\Users\Glujkin\Documents\lab1_ISRPO_Shishkin\backend\bin\Debug\net10.0\backend.dll
+C:\Users\Glujkin\Documents\lab1_ISRPO_Shishkin\backend\bin\Debug\net10.0\backend.pdb
+C:\Users\Glujkin\Documents\lab1_ISRPO_Shishkin\backend\obj\Debug\net10.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Glujkin\Documents\lab1_ISRPO_Shishkin\backend\obj\Debug\net10.0\backend.AssemblyInfoInputs.cache
+C:\Users\Glujkin\Documents\lab1_ISRPO_Shishkin\backend\obj\Debug\net10.0\backend.AssemblyInfo.cs
+C:\Users\Glujkin\Documents\lab1_ISRPO_Shishkin\backend\obj\Debug\net10.0\backend.csproj.CoreCompileInputs.cache
+C:\Users\Glujkin\Documents\lab1_ISRPO_Shishkin\backend\obj\Debug\net10.0\backend.sourcelink.json
+C:\Users\Glujkin\Documents\lab1_ISRPO_Shishkin\backend\obj\Debug\net10.0\backend.dll
+C:\Users\Glujkin\Documents\lab1_ISRPO_Shishkin\backend\obj\Debug\net10.0\refint\backend.dll
+C:\Users\Glujkin\Documents\lab1_ISRPO_Shishkin\backend\obj\Debug\net10.0\backend.pdb
+C:\Users\Glujkin\Documents\lab1_ISRPO_Shishkin\backend\obj\Debug\net10.0\backend.genruntimeconfig.cache
+C:\Users\Glujkin\Documents\lab1_ISRPO_Shishkin\backend\obj\Debug\net10.0\ref\backend.dll
